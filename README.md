@@ -1,2 +1,17 @@
-# helloword230517
-hellowordl230517
+``` c 
+#include <stdio.h>
+
+int main(void){
+ return 0;
+ }
+ ```
+ 
+ ``` bash
+ echo "hello world" > main.c
+ 
+ ```
+ 
+*** 
+hello world
+
+ helloworld
